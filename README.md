@@ -1,5 +1,5 @@
-#Packet Flow Visualizer Project
-#Project Overview
+Packet Flow Visualizer Project
+Project Overview
 The main objective of this project is to create a visual representation of the packet flow from students' laptops/desktops (hosts) to external networks outside of the college campus. The project can be divided into two key parts:
 
 Network Topology Creation: In this phase, students will determine the devices present within the college network by using tools like traceroute or consulting with the college network administrator. Based on the gathered information, students will create a network topology using Cisco Packet Tracer. The topology will illustrate the various network devices, their connections, and the path from the host to the external network.
